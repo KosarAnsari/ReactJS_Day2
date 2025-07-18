@@ -1,8 +1,3 @@
-Here’s a README.md for your React JS Day 2 progress:
-
-
----
-
 React JS – Day 2
 
 📚 What I Learned Today
